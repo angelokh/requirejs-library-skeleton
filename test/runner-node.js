@@ -9,7 +9,8 @@ requirejs.config({
   baseUrl: __dirname,
   paths: {
     skeleton: '../lib/skeleton',
-    cs: '../vendor/cs'
+    cs: '../vendor/cs',
+    "jquery": "../vendor/jquery"
   }
 });
 

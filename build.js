@@ -9,7 +9,8 @@ requirejs.config({
   paths: {
     "cs": "../vendor/cs",
     "coffee-script": "../vendor/coffee-script",
-    "spec": "../test/spec"
+    "spec": "../test/spec",
+    "jquery": "../vendor/jquery"
   },
 
   // target amd loader shim as the main module, path is relative to baseUrl.
